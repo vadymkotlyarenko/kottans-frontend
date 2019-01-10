@@ -39,7 +39,7 @@ When performing tasks, I learned a lot about Responsive Web Design. because I kn
 - Responsive Web Design Fundamentals [\[1\]](task_responsive_web_design/ResponsiveWebDesignFundamentals.png)
 - Flexbox Froggy [\[2\]](task_responsive_web_design/FLEXBOXFROGGY.png)
 
-#### 4. Responsive Web Design
+#### 4. JavaScript Basics
 At the basic level I am familiar with js but it was interesting to complete the tasks from freecodecamp Algorithm Scripting Challenges.
 
 #### Screenshots
