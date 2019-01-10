@@ -21,5 +21,13 @@ In this lesson, I remembered how Command Line and HTTP works.
 In this tutorial I’ll learn about the features of git command work.
 
 #### Screenshots
-- GitHub & Collaboration [\[1\]](task_git_collaboration/GitHubCollaboration.png) -s -n
+- GitHub & Collaboration [\[1\]](task_git_collaboration/GitHubCollaboration.png)
 - What is Version Control [\[2\]](task_git_collaboration/VersionControlWithGit.png)
+
+#### 3. Intro to HTML and CSS
+When performing tasks, I refreshed my knowledge of html and css. And also trained in their practical use.
+
+#### Screenshots
+- Intro to HTML & CSS [\[1\]](task_html_css_intro/IntroToHTMLAndCSS.png)
+- Basics of HTML [\[2\]](task_html_css_intro/HTML.png)
+- Basics of CSS [\[3\]](task_html_css_intro/CSS.png)
