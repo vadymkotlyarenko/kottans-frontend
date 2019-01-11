@@ -39,9 +39,16 @@ When performing tasks, I learned a lot about Responsive Web Design. because I kn
 - Responsive Web Design Fundamentals [\[1\]](task_responsive_web_design/ResponsiveWebDesignFundamentals.png)
 - Flexbox Froggy [\[2\]](task_responsive_web_design/FLEXBOXFROGGY.png)
 
-#### 4. JavaScript Basics
+#### 5. JavaScript Basics
 At the basic level I am familiar with js but it was interesting to complete the tasks from freecodecamp Algorithm Scripting Challenges.
 
 #### Screenshots
 - Intro to JS [\[1\]](task_js_basics/IntroToJS.png)
 - freecodecamp Algorithm Scripting Challenges(1-11) [\[2\]](task_js_basics/IntroductionToTheIntermediateAlgorithmScriptingChallenges.png)
+
+#### 6. Document Object Model
+During the assignment I learned a lot about working with DOM.
+
+#### Screenshots
+- JavaScript and the DOM [\[1\]](task_js_dom/DOM.png)
+- freecodecamp Algorithm Scripting Challenges(12-18) [\[2\]](task_js_dom/IntroductionToTheIntermediateAlgorithmScriptingChallenges12-18.png)
