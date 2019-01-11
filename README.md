@@ -52,3 +52,6 @@ During the assignment I learned a lot about working with DOM.
 #### Screenshots
 - JavaScript and the DOM [\[1\]](task_js_dom/DOM.png)
 - freecodecamp Algorithm Scripting Challenges(12-18) [\[2\]](task_js_dom/IntroductionToTheIntermediateAlgorithmScriptingChallenges12-18.png)
+
+Practice: [Demo](https://vadymkotlyarenko.github.io/task_js_dom/) |
+[Code base](https://github.com/vadymkotlyarenko/kottans-frontend/tree/master/task_js_dom/practical_task)
