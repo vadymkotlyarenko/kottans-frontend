@@ -70,3 +70,8 @@ Practice: [Demo](https://vadymkotlyarenko.github.io/a-tiny-JS-world/) |
 
 Practice: [Demo](https://vadymkotlyarenko.github.io/frontend-nanodegree-arcade-game/) |
 [Code base](https://github.com/vadymkotlyarenko/frontend-nanodegree-arcade-game/blob/master/js/app.js)
+
+#### 9. Object-Oriented JavaScript
+
+Practice: [Demo](https://vadymkotlyarenko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/vadymkotlyarenko/a-tiny-JS-world/blob/populate-world/index.js)
