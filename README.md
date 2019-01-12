@@ -55,3 +55,9 @@ During the assignment I learned a lot about working with DOM.
 
 Practice: [Demo](https://vadymkotlyarenko.github.io/task_js_dom/) |
 [Code base](https://github.com/vadymkotlyarenko/kottans-frontend/tree/master/task_js_dom/practical_task)
+
+
+#### 7. A Tiny JS World
+
+Practice: [Demo](https://vadymkotlyarenko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/vadymkotlyarenko/a-tiny-JS-world/blob/populate-world/index.js)
