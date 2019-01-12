@@ -61,3 +61,12 @@ Practice: [Demo](https://vadymkotlyarenko.github.io/task_js_dom/) |
 
 Practice: [Demo](https://vadymkotlyarenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/vadymkotlyarenko/a-tiny-JS-world/blob/populate-world/index.js)
+
+#### 8. Object-Oriented JavaScript
+
+#### Screenshots
+- Object Oriented JS [\[1\]](task_js_oop/ObjectOrientedJS.png)
+- codewars [\[2\]](task_js_oop/codewars.png)
+
+Practice: [Demo](https://vadymkotlyarenko.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/vadymkotlyarenko/frontend-nanodegree-arcade-game/blob/master/js/app.js)
