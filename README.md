@@ -75,3 +75,13 @@ Practice: [Demo](https://vadymkotlyarenko.github.io/frontend-nanodegree-arcade-g
 
 Practice: [Demo](https://vadymkotlyarenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/vadymkotlyarenko/a-tiny-JS-world/blob/populate-world/index.js)
+
+#### 11. Memory Pair Game
+
+Practice: [Demo](https://vadymkotlyarenko.github.io/MemoryPairGame/) |
+[Code base](https://github.com/vadymkotlyarenko/MemoryPairGame)
+
+#### 13. Friends App
+
+Practice: [Demo](https://vadymkotlyarenko.github.io/Friends-App/) |
+[Code base](https://github.com/vadymkotlyarenko/Friends-App)
